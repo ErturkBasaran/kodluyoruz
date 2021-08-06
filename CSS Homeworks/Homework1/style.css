@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(164, 168, 172);
+}
+
+h2{
+    color: rgb(83, 92, 5);
+}
+
+img{
+    border: 5px solid blue;
+}
+
+.border{
+    width: 75%;
+    padding: 35px 0;
+    margin: auto;
+    border: 3px solid green;
+    font-size: 20px;
+}
+
+hr{
+    width: 75%;
+}
+
+a{
+    color: teal;
+}
+
+article{
+    color: rgb(85, 21, 21);
+    font-size: 20px;
+}
