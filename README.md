@@ -3,5 +3,5 @@ Kodluyoruz Front-End
 
 ## Installation
 ```
-git clone https://github.com/ErturkBasaran/kodluyoruz.git
+git clone https://github.com/erturkbasaran/kodluyoruz.git
 ```
